@@ -1,0 +1,2 @@
+# premium-type-set-001-hand-typesetting-composing-sti
+Tired of losing track of your composing stick lines and scrambling to recall which measurements worked for which project? The Hand Typesetting Composing Stick Line Record turns your messy notes into a precise, searchable digital archive.  This Notion template replaces scattered notebooks and sticky notes with a unified system for logging every line
